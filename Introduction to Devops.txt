@@ -1,0 +1,105 @@
+* Introduction to Devops - 
+
+1 - Waterfall Model
+2 - Agile Model
+3 - Spring Model
+
+
+
+* Devops Life Cycle - 
+
+1 - Devops Commits Code to Git Hub - SCM "Source code management system"
+2 - Code Build - Deployable software - ARTIFACT
+3 - Code Test - Unit & integration Test
+4 - Code Analysis - Vul;nerability, best practices
+5 - Delivery - Deploy changes to staging
+6 - DB/SEC Changes - Every other ops changes
+7 - Software Testing - QA/ Functional, Load, Performance tests
+8 - Deploy to Production 
+9 - Go Live - User Traffic diverted to new changes
+10 - User Approval - User Feedback
+11 - Keep Monitoring
+
+
+* Continous Integration - 
+
+Artifact - A package of code (ex - 1 - DLL/EXE/MSI. 2 - WAR/JAR. 3 - ZIP/TAR)
+
+
+* CI/Continous Integration Cycle - 
+
+            Code > Fetch > Build > Test > Notify > Feedback > Code
+
+
+* IDE - integrated Development Environment 
+
+1 - Eclipse
+2 - Visual Studio
+3 - Atom
+4 - Pycharm 
+5 - And Many More
+
+
+* Version Control - 
+
+1 - GIT
+2 - SUN
+3 - GIT LAB
+
+
+* Build Tools - 
+
+1- Maven, ANT, Grade
+2 - MS Build, Visual Build
+3 - IBM urban Code
+4 - Make 
+5 - Grunt
+
+
+* Software Repositary -
+
+1 - Sonatype Nexus
+2 - JFrog Artifactory 
+3 - Archiva
+4 - Cloudsmith Package
+5 - Grunt
+
+
+* CI Tools - 
+
+1 - Jenkins
+2 - Circle CI
+3 - team City
+4 - Bamboo CI
+5 - Cruise Control
+
+
+* Deployment - 
+1 - Server Provisioning
+2 - Dependencies
+3 - Conf Changes
+4 - Network 
+5 - Artifact Deploy 
+6 - Many more steps
+
+
+* Tools - 
+
+1 - Ansible, Puppet, Chef (Configuration tools)
+2 - Terraform, C Formation (infrastructure Automation tools)
+3 - Jenkins, Octopus Deploy (CI/ Continous Integration Tools)
+4 - Docker, Kubernetes
+5 - Helm Charts
+6 - Code Deploy
+7 - Many More
+
+
+* Test Automation Tools -
+
+1 - Functional
+2 - Load
+3 - Performance 
+4 - Database (DB)
+5 - Network & Security
+6 - Any other test cases
+
